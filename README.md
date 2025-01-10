@@ -19,7 +19,7 @@ To run the project locally, follow these steps:
 ### 🚀 Frontend Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/akhilchandps/Certi-Hub.git
+   git clone git@github.com:an9644/D-GetCertificate-App.git
    ```   
 2. Install the dependencies:
    ```bash
